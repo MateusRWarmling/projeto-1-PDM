@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Avaliacao 1</string>
+    <string name="editUser">Usuario</string>
+    <string name="editPassword">Senha</string>
+    <string name="signInButton">Sign In</string>
+    <string name="signInFacebookButton">Sign In with Facebook</string>
+    <string name="signInGoogleButton">Sign In with Google</string>
+    <string name="forgotPassword">Forgot password?</string>
+    <string name="logonText">Don\'t have an account? Create One</string>
+
+    <string name="usuarioFaltante">Nome do usuário não pode estar em branco.</string>
+    <string name="senhaFaltante">Senha do usuário não pode estar em branco.</string>
+    <string name="loginErrado">Nome de usuário ou senha incorreta.</string>
+
+    <string name="reserveButton">Reservar</string>
+    <string name="tableNumberInput">Número da mesa</string>
+    <string name="freeButton">Liberar Mesa</string>
+    <string name="saveButton">Salvar Operação</string>
+    <string name="reserveAllButton">Reservar todas as mesas</string>
+
+    <string name="tableFree">A Mesa {tableNum} está livre.</string>
+    <string name="tableDontExist">A mesa selecionada não existe</string>
+    <string name="tableOccupied">A mesa já está ocupada</string>
+
+</resources>
